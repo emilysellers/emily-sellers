@@ -1,8 +1,8 @@
-##Hi, I'm Emily 👋🏼 
+## Hi, I'm Emily 👋🏼 
 
 I'm a full-stack software developer with a diverse background in social service nonprofits. I'm passionate about solving complex, human-centered problems. I’m always looking to continue learning and contributing to impactful change in the world.
 
-##Tech Stack
+## Tech Stack
 - Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
