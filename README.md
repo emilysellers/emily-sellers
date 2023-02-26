@@ -1,6 +1,6 @@
 ## Hi, I'm Emily 👋🏼 
 
-I'm a full-stack software developer with a diverse background in social service nonprofits. I'm passionate about solving complex, human-centered problems. I’m always looking to continue learning and contributing to impactful change in the world.
+I'm a full-stack software developer based in Portland, Oregon. With a diverse background in social service nonprofits, I'm passionate about solving complex, human-centered problems. I’m always looking to continue learning, growing and finding ways to contribute to impactful change in the world.
 
 ## Tech Stack
 - Languages:
@@ -10,18 +10,22 @@ I'm a full-stack software developer with a diverse background in social service 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 - Libraries & Frameworks:
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 - Database:
+
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 - Testing:
+
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 - Tools:
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
