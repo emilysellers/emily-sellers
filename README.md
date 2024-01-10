@@ -1,17 +1,11 @@
 ## Hi, I'm Emily 👋🏼 
 
-I'm a full-stack software developer in Portland, Oregon. With a diverse background in social service nonprofits, I'm passionate about solving complex, human-centered problems and excited about continuing to grow and contribute to impactful change in the world.
+I'm a full stack software developer with experience in the PERN stack.
 
 ## Tech Stack
-- **Languages**: JavaScript, HTML, CSS
-- **Libraries & Frameworks**: React, Express.js, Node.js
-- **Database**: Postgres, Supabase, Firebase
-- **Testing**: Jest
-- **Tool**s: Git, Visual Studio Code, Postman, Netlify, Heroku
-- **Practices**: TDD, pair programming, fully distributed teams
-
-- **Currently learning**: Typescript, Next.js
-- **On the horizon**: Python, Cypress
+- **Frontend**: JavaScript, React.js, HTML, CSS, Typescript
+- **Backend**: Node.js, Express.js, PostgreSQL, SQL, RESTful APIs, relational databases
+- **Tools**: Git, Github, VSCode, Supabase, Firebase, Agile development, test-driven development, remote teams, pair/mob programming, Netlify, Heroku
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) -->
